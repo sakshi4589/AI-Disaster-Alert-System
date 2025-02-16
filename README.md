@@ -1,4 +1,4 @@
-AI-Powered Disaster Response System
+AI-Powered Disaster Alert System
 
 🚀 An AI-driven system for real-time disaster detection and response using Google Cloud and machine learning.
 
@@ -24,7 +24,7 @@ Database: Firebase/PostgreSQL
 
 📂 Project Structure
 
-📁 AI-Disaster-Response-System  
+📁 AI-Disaster-Alert-System  
  ┣ 📂 backend  
  ┣ 📂 frontend  
  ┣ 📂 models  
@@ -35,7 +35,7 @@ Database: Firebase/PostgreSQL
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/AI-Disaster-Response-System.git
+git clone https://github.com/your-username/AI-Disaster-Alert-System.git
 
 
 2. Install dependencies:
